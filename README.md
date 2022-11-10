@@ -1,5 +1,5 @@
 # django_dtek_schedule
-Django app to notify user via SMS about DTEK schedule using Trillio SMS. 
+Django app to notify user via SMS about DTEK schedule using Twilio SMS. 
 For Scheduling the message using Django, I use django-celery with redis as the backend.
 
 INSTALL
