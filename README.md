@@ -19,12 +19,15 @@ For Scheduling the message using Django, I use django-celery with redis as the b
 mkdir django_schedule
 
 cd django_schedule
+
 Linux
 
 python3 -m venv .venv source .venv/bin/activate
+
 macOS
 
 python3 -m venv .venv source .venv/bin/activate
+
 Windows
 
 py -3 -m venv .venv .venv\scripts\activate
