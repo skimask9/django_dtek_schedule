@@ -42,7 +42,7 @@ A .env file can be used whenever there are environment variables you need to mak
 
 Next, open the .env file in your favorite text editor and add the following lines, replacing the random string placeholder values with your values:
 
-```
+```python
 TWILIO_ACCOUNT_SID = YOUR TWILIO ACCOUNT SID
 TWILIO_TOKEN = YOUR TWILIO ACCOUNT TOKEN
 TWILIO_NUMBER = YOUR TWILIO NUMBER
