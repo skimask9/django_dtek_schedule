@@ -1,5 +1,16 @@
 # DTEK Schedule based on Django app
 
+<!--toc:start-->
+- [DTEK Schedule based on Django app](#dtek-schedule-based-on-django-app)
+  - [Description](#description)
+    - [Technologies](#technologies)
+      - [INSTALL](#install)
+      - [Linux](#linux)
+      - [Mac OS](#mac-os)
+      - [Windows](#windows)
+      - [Installing all dependecies from requirements.txt](#installing-all-dependecies-from-requirementstxt)
+<!--toc:end-->
+
 ## Description
 
 Django app to notify user via SMS about DTEK schedule using Twilio SMS.
@@ -23,19 +34,24 @@ cd django_schedule
 
 #### Linux
 
-```shell 
+```shell
 python3 -m venv .venv source .venv/bin/activate
 ```
 
 #### Mac OS
+
 ```shell
 python3 -m venv .venv source .venv/bin/activate
 ```
+
 #### Windows
+
 ```shell
 py -3 -m venv .venv .venv\scripts\activate
 ```
+
 #### Installing all dependecies from requirements.txt
+
 ```shell
 pip install -r requirements.txt
 ```
