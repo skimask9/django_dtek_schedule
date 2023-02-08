@@ -1,0 +1,1 @@
+#make a django view with output to html template
