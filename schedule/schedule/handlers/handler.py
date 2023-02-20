@@ -12,7 +12,7 @@ WEEKDAYS = {
     "Friday": 1,
     "Sunday": 1,
     "Saturday": 1,
-    "Mondauy": 1,
+    "Monday": 1,
     "Tuesday": 2,
     "Wednesday": 3,
     "Thursday": 4,
